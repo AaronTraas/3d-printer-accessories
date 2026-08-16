@@ -1,0 +1,16 @@
+# Created by https://www.toptal.com/developers/gitignore/api/kate,freecad
+# Edit at https://www.toptal.com/developers/gitignore?templates=kate,freecad
+
+### FreeCad ###
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
+
+### Kate ###
+# Swap Files #
+.*.kate-swp
+.swp.*
+
+# End of https://www.toptal.com/developers/gitignore/api/kate,freecad

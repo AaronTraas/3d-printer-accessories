@@ -4,6 +4,8 @@ My partner in printing, [Ted Kotz](https://github.com/tedkotz), and I built a dr
 
 ![Part in slicer](images/sliced_part.png)
 
+![Part in slicer](images/part_in_fitting.png)
+
 ## Model details
 
 Very simple OpenSCAD project. Everything is parameterized. 
